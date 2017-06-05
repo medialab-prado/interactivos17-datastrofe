@@ -43,7 +43,7 @@ Reimaginando el movimiento en la ciudad
 ### ¿Qué es?
 Datástrofe es un videojuego desarrollado en Unity que nos muestra una infografía en tiempo real que visualiza datos medioambientales del entorno, como son calidad del aire, contaminación acústica, datos climáticos y intensidad de tráfico en la M-30. Adoptando el rol de ciudadano o estado en diferentes turnos, podremos implementar acciones de caracter sostenible extraidas del [Plan de calidad del aire](http://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Plan-A-Plan-de-Calidad-del-Aire-y-Cambio-Climatico?vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=cf66b95e4ebca510VgnVCM1000001d4a900aRCRD) y relacionados para afrontar la problemática, traslandando esta a un nuevo contexto, el lenguaje de los videojuegos.
 
-## Galería Datástrofe
+### Galería Datástrofe
 Cada x minutos, el videojuego envía una captura de pantalla del estado del juego a una [galería de imágenes](http://zona4g.com/datastrofe/capturas/images/index.php) online.
 
 ### Para la creación del Videojuego se utilizarán
