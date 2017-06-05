@@ -15,6 +15,14 @@ Videogame is designed to be controlled with an original xbox360 gamepad, using l
 ## About builds:
 - MacOS (arquitechture independant) may have a bug with shaders, freezing and crashing compilation randomly. 
 - PC build seems to run without problems.
+- Linux deployment not tested yet.
+- Mobile deployments not tested. A hard work of models optimization is required; also shaders need a workaround since it can be high intensive to procees.
+
+## TODO
+- Baking lights.
+- Implement 3D spatial sound
+- Accurate day/night cycle.
+- More realistic rain particle system.
 
 For any doubt regarding compilation or code dont heasitate to contact [tonijota](http://twitter.com/tonijota) or [lucía](http://luciaseguramente.com)
 
