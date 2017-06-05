@@ -25,7 +25,7 @@ Reimaginando el movimiento en la ciudad
 - Dilnoza Shaumarova // Investigación
 
 ## Mentoría
-- [Miguel Álvarez](http://medialab-prado.es/person/miguel-alvarez-martinez)
+- [Miguel Álvarez](https://twitter.com/malvartinez?lang=es)
 - [Daniel Lombraña](https://scifabric.com/)
 - [Adam Greenfield](http://urbanscale.org/about/adam-greenfield/)
 - [Karolina Sobecka](http://www.gravitytrap.com/)
