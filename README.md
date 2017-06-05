@@ -15,14 +15,21 @@ Proyecto desarrollado en la convocatoria [Interactivos?17](http://medialab-prado
 Reimaginando el movimiento en la ciudad
 
 ## Promotores
-Toni [@tonijota](https://twitter.com/tonijota) - Desarrollo y game design
-Lucía [web](http://luciaseguramente.com) - Modelado, Desarrollo y game design
+- [Toni Jaume](https://twitter.com/tonijota) // Desarrollo y game design
+- [Lucía Segurajáuregui](http://luciaseguramente.com) // Modelado, Desarrollo y game design
 
 ## Colaboradores
-Sofía Pros [web](https://sofipros.com/) - Modelado y concepto
-Hamilton Mestizo [web](http://librepensante.org/) - Diseño de sonido
-Nadia Hakim [linkedin](https://www.linkedin.com/in/nadia-hakim-fern%C3%A1ndez-29a294b5?ppe=1) - Investigación
-Dilnoza Shaumarova - Investigación
+- [Sofía Pros](https://sofipros.com/) // Modelado y concepto
+- [Hamilton Mestizo](http://librepensante.org/) // Diseño de sonido
+- [Nadia Hakim](https://www.linkedin.com/in/nadia-hakim-fern%C3%A1ndez-29a294b5?ppe=1) // Investigación
+- Dilnoza Shaumarova // Investigación
+
+## Mentoría
+- [Miguel Álvarez](http://medialab-prado.es/person/miguel-alvarez-martinez)
+- [Daniel Lombraña](https://scifabric.com/)
+- [Adam Greenfield](http://urbanscale.org/about/adam-greenfield/)
+- [Karolina Sobecka](http://www.gravitytrap.com/)
+- [Christian Nold](http://www.softhook.com/)
 
 ## Instrucciones de montaje y puesta en marcha.
 - Para que el gamepad funcione como ratón, hay que abrir la aplicación Joystick Mapper, y en el preset de xbox360, a la izquierda activar el check grande que hay. Con el joystick analógico derecho del gamepad el ratón ya se debería mover.
@@ -32,7 +39,7 @@ Dilnoza Shaumarova - Investigación
 
 
 ### ¿Qué es?
-Datástrofe es un videojuego desarrollado en Unity que nos muestra una infografía en tiempo real que visualiza datos medioambientales del entorno, como son calidad del aire, contaminación acústica, datos climáticos y intensidad de tráfico en la M-30.
+Datástrofe es un videojuego desarrollado en Unity que nos muestra una infografía en tiempo real que visualiza datos medioambientales del entorno, como son calidad del aire, contaminación acústica, datos climáticos y intensidad de tráfico en la M-30. Adoptando el rol de ciudadano o estado en diferentes turnos, podremos implementar acciones de caracter sostenible extraidas del [Plan de calidad del aire](http://www.madrid.es/portales/munimadrid/es/Inicio/Movilidad-y-transportes/Plan-A-Plan-de-Calidad-del-Aire-y-Cambio-Climatico?vgnextchannel=220e31d3b28fe410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=cf66b95e4ebca510VgnVCM1000001d4a900aRCRD) y relacionados para afrontar la problemática, traslandando esta a un nuevo contexto, el lenguaje de los videojuegos.
 
 
 ### Para la creación del Videojuego se utilizarán
