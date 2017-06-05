@@ -86,4 +86,5 @@ __HARDWARE__
 
   30- Se crearon el resto de tarjetas y se puso a prueba en el ordenador final. Problemas de resolucion y funcionamiento se detectaron y resolvieron.
 
+EDITANDO---
   
