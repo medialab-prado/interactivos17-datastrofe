@@ -2,7 +2,15 @@
 ### Developed with Unity 5 (c#)
 
 ## Controls:
-Videogame is designed to be controlled with an original xbox360 gamepad, using left joystick to control mouse through applications like Enjoy2 (open source) or Joystick Mapper. Right stick is for moving map; other controls (action buttons, zoom or rotate map) can be configured in input mapper.
+Videogame is designed to be controlled with an original xbox360 gamepad, using left joystick to control mouse through applications like [Enjoy2](https://github.com/fyhuang/enjoy2/) (open source) or [Joystick Mapper](http://joystickmapper.com/). Right stick is for moving map; other controls (action buttons, zoom or rotate map) can be configured in Input config dialog or input mapper (inside Unity).
+
+## Data update intervals
+- Air quality data is gathered every 1 hour.
+- Accoustic contamination three times a day.
+- Traffic data is gathered every 5 mins.
+- Environment data (weather related) is gathered every 1 min.
+- Tweets (query: contaminacion OR contaminacion+madri) updated every 10 minutes (first releveance-ordered tweets are displayed).
+- Traffic incidents info is updated with traffic data (same source).
 
 ## About builds:
 - MacOS (arquitechture independant) may have a bug with shaders, freezing and crashing compilation randomly. 
