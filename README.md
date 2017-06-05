@@ -88,5 +88,7 @@ __HARDWARE__
 
   30- Se crearon el resto de tarjetas y se puso a prueba en el ordenador final. Problemas de resolucion y funcionamiento se detectaron y resolvieron.
 
+## El videojuego envía una captura de pantalla del estado del juego a la siguiente galería:
+[Galería datástrofe](http://zona4g.com/datastrofe/capturas/images/index.php)
 EDITANDO---
   
