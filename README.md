@@ -1,3 +1,5 @@
+![Datástrofe team](https://c1.staticflickr.com/5/4196/34946844546_7b6a66d427_h.jpg)
+
 # Datástrofe
 En febrero de este año la Comisión Europea, nos sitúo entre los cinco estados bajo la lupa comunitaria por superar los niveles de dióxido de carbono (CO2) y dióxido de nitrógeno (NO2). 
  
