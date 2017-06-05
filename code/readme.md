@@ -8,8 +8,8 @@ Videogame is designed to be controlled with an original xbox360 gamepad, using l
 - Air quality data is gathered every 1 hour.
 - Accoustic contamination three times a day.
 - Traffic data is gathered every 5 mins.
-- Environment data (weather related) is gathered every 1 min.
-- Tweets (query: contaminacion OR contaminacion+madri) updated every 10 minutes (first releveance-ordered tweets are displayed).
+- Environment data (weather related) is gathered every 1 min. 
+- Tweets (query: contaminacion OR contaminacion+madrid) updated every 10 minutes (first 8 releveance-ordered tweets are displayed).
 - Traffic incidents info is updated with traffic data (same source).
 
 ## About builds:
