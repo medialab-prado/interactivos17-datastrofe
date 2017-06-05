@@ -4,6 +4,7 @@
 ## Controls:
 Videogame is designed to be controlled with a original xbox360 gamepad, using left joystick to control mouse through applications like Enjoy2 (open source) or Joystick Mapper. Right stick is for moving map; other controls (action buttons, zoom or rotate map) can be configured in input mapper.
 
+## About builds:
 - MacOS (arquitechture independant) may have a bug with shaders, freezing and crashing compilation randomly. 
 - PC build seems to run without problems.
 
