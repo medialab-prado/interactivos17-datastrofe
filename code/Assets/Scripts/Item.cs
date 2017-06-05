@@ -115,8 +115,8 @@ public class Item : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, I
 	void Update () {
 		if (turnosActivos>0) {
 			if ((_activo+turnosActivos+1) == GameLogic.turnoActual && bought) {
-			print("TURNO " + GameLogic.turnoActual);
-			print("TURNO A " + (_activo+turnosActivos).ToString());
+			//print("TURNO " + GameLogic.turnoActual);
+			//print("TURNO A " + (_activo+turnosActivos).ToString());
 
 			bought = false;
 			available = true;

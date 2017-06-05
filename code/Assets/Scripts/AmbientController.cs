@@ -62,7 +62,7 @@ public class AmbientController : MonoBehaviour {
 	}
 
 	public void setRain(bool start) {
-		print("A LLOVER  " + start);
+		//print("A LLOVER  " + start);
 		if (start) {
 			rain = true;
 			lluvia.gameObject.SetActive(true);

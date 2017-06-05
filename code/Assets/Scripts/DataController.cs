@@ -83,7 +83,7 @@ public class DataController : MonoBehaviour {
 			GetComponent<Marquee>().message += " | " + (data["statuses"][8]["text"]).ToString().Replace("\r", "").Replace("\n", "").Replace("\\r", "").Replace("\n", "");
 			//print((data["statuses"][0]["text"]).ToString().Replace("\r", "").Replace("\n", ""));
 			GetComponent<Marquee>().enabled = true;
-
+            print("ACTUALIZAR TWEETS");
 			yield return new WaitForSeconds(300f);
 		}
 	}
@@ -112,7 +112,9 @@ public class DataController : MonoBehaviour {
 
 			rawContaminationData.text = 
 				"CO: " + data["data"]["iaqi"]["co"]["v"] + " | " + "H: " + data["data"]["iaqi"]["h"]["v"] + " | " + "NO2: " + data["data"]["iaqi"]["no2"]["v"] + " | " + "O3: " + data["data"]["iaqi"]["o3"]["v"] + " | " + "P: " + data["data"]["iaqi"]["p"]["v"] + " | " + "PM10: " + data["data"]["iaqi"]["pm10"]["v"] + " | " + "PM25: " + data["data"]["iaqi"]["pm25"]["v"] + " | " + "SO2: " + data["data"]["iaqi"]["so2"]["v"] + " | " + "T: " + data["data"]["iaqi"]["t"]["v"];
-			yield return new WaitForSeconds(3700f);
+
+            print("ACTUALIZAR CONTAMINANTES");
+            yield return new WaitForSeconds(3700f);
 		}
 
 	}
@@ -150,15 +152,16 @@ public class DataController : MonoBehaviour {
 				GetComponentInParent<AmbientController>().setRain(false);
 			}
 
-			print("P " + precipitaciones);
-			print("I " + icon);
-			print("W " + float.Parse(data[1]["wind_kph"]));
+			//print("P " + precipitaciones);
+			//print("I " + icon);
+			//print("W " + float.Parse(data[1]["wind_kph"]));
 			GetComponentInParent<AmbientController>().setWind(float.Parse(data[1]["wind_kph"]));
 
 			cabecera.text = "MADRID - " + System.DateTime.Now.ToString("dd/MM/yyyy");
 			thora.text = System.DateTime.Now.ToString("t") + "h";
 
-			yield return new WaitForSeconds(60f);
+            print("ACTUALIZAR METEO");
+            yield return new WaitForSeconds(60f);
 		}
 		/*yield return StartCoroutine(UniGif.GetTextureListCoroutine(iconMeteo.bytes, (gifTexList, loopCount, width, height) => { 
 			GameObject.Find("icoWeather").GetComponent<RawImage>().texture = gifTexList[0].m_texture2d;
@@ -187,7 +190,8 @@ public class DataController : MonoBehaviour {
 			stats.text += "% ILLUMINATED " + percentLight + "%\n";
 			stats.text += "AMBIENT INTENSITY CALCULATED: " + intensidad + " (w " + horaActual + ")\n";
 			updateAmbient(intensidad);
-			yield return new WaitForSeconds(60f);
+            print("ACTUALIZAR SUNRISE");
+            yield return new WaitForSeconds(60f);
 		}
 	}
 
@@ -250,7 +254,7 @@ public class DataController : MonoBehaviour {
 			int hora = System.DateTime.Now.Hour;
 
 			float v = 0;
-			print("HORA " + hora);
+			//print("HORA " + hora);
 			if (hora>=7 && hora<13) {
 				//print("D " + d);
 				v = (totalDatosD / (d-1));
@@ -261,7 +265,7 @@ public class DataController : MonoBehaviour {
 				print("N " + n);
 				v = (totalDatosN / (n-1));
 			}
-			print("HORA " + hora);
+			
 
 			/*print("D " + totalDatosD);
 			print("E " + totalDatosE);
@@ -270,7 +274,8 @@ public class DataController : MonoBehaviour {
 			GameLogic.rawRuido = v;
 			noiseLevel = v.ToString("##");
 
-			yield return new WaitForSeconds(3700f);
+            print("ACTUALIZAR ACUSTIC");
+            yield return new WaitForSeconds(3700f);
 		}
 	}
 
@@ -311,10 +316,11 @@ public class DataController : MonoBehaviour {
 
 				}
 			}
-			print("VTRAFICO " + GameLogic.vTrafico);
+			//print("VTRAFICO " + GameLogic.vTrafico);
 			GetComponentInParent<TrafficController>().totalVehicles = int.Parse(GameLogic.vTrafico);
 			GetComponentInParent<TrafficController>().enabled = true;
-			yield return new WaitForSeconds(400f);
+            print("ACTUALIZAR TRAFICO");
+            yield return new WaitForSeconds(400f);
 		}
 
 

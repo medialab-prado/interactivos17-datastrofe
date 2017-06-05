@@ -212,6 +212,6 @@ public class GameLogic : MonoBehaviour
 		}
 		totalRuido += ((modRuido*4)/100f);
 		GameLogic.turnoActual = turno;
-		print(GameLogic.turnoActual);
+		//print(GameLogic.turnoActual);
 	}
 }
