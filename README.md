@@ -8,21 +8,21 @@ Aproximadamente el 80% de la contaminación atmosférica está provocada por el 
 Datástrofe es un videojuego que retará al usuario a contrarrestar los datos captados en tiempo real de emisiones de gases, ruido ambiental y tráfico de Madrid. El objetivo es concienciar e informar de la situación actual a la que hemos llegado por una mala praxis generalizada a nivel social, sector privado y estatal. Datástrofe te propone dos roles desde los que actuar, tomando parte como estado o como sociedad.  
  
 ¡Ayúdanos a luchar contra los datos de Madrid!
-
 --------
+
 Proyecto desarrollado en la convocatoria [Interactivos?17](http://medialab-prado.es/article/-interactivos17-reimaginando-el-movimiento-en-la-ciudad-ciencia-ciudadana-para-un-presente-sostenible-proyectos-seleccionados) para
 [Medialab-Prado](http://medialab-prado.es/) && [Do it together Science](http://togetherscience.eu/)
 Reimaginando el movimiento en la ciudad
 
 ## Promotores
-Toni [@tonijota](https://twitter.com/tonijota)// Desarrollo y game design
-Lucía [web](http://luciaseguramente.com) // Modelado, Desarrollo y game design
+Toni [@tonijota](https://twitter.com/tonijota) - Desarrollo y game design
+Lucía [web](http://luciaseguramente.com) - Modelado, Desarrollo y game design
 
 ## Colaboradores
-Sofía Pros [web](https://sofipros.com/) // Modelado y concepto
-Hamilton Mestizo [web](http://librepensante.org/) // Diseño de sonido
-Nadia Hakim [linkedin](https://www.linkedin.com/in/nadia-hakim-fern%C3%A1ndez-29a294b5?ppe=1) // Investigación
-Dilnoza Shaumarova // Investigación
+Sofía Pros [web](https://sofipros.com/) - Modelado y concepto
+Hamilton Mestizo [web](http://librepensante.org/) - Diseño de sonido
+Nadia Hakim [linkedin](https://www.linkedin.com/in/nadia-hakim-fern%C3%A1ndez-29a294b5?ppe=1) - Investigación
+Dilnoza Shaumarova - Investigación
 
 ## Instrucciones de montaje y puesta en marcha.
 - Para que el gamepad funcione como ratón, hay que abrir la aplicación Joystick Mapper, y en el preset de xbox360, a la izquierda activar el check grande que hay. Con el joystick analógico derecho del gamepad el ratón ya se debería mover.
@@ -35,23 +35,21 @@ Dilnoza Shaumarova // Investigación
 Datástrofe es un videojuego desarrollado en Unity que nos muestra una infografía en tiempo real que visualiza datos medioambientales del entorno, como son calidad del aire, contaminación acústica, datos climáticos y intensidad de tráfico en la M-30.
 
 
-###Para la creación del Videojuego se utilizarán
+### Para la creación del Videojuego se utilizarán
 
-SOFT
+__SOFTWARE__
 * Unity - Creación del videojuego
 * Adobe Ilustrator - Iconos
 * MagicaVoxel - Modelado en 3D
 * Mixxx-Sonido
 
-HARD
+__HARDWARE__
 * Arduino
 * Smart Citizen
 * Mac Mini
 * Xbox gamepad
 * Pantalla
 * Auriculares
-
-
 
 ## Proceso // Diario
 
