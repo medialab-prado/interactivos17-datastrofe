@@ -19,7 +19,7 @@ Reimaginando el movimiento en la ciudad
 ## Promotores
 - [Toni Jaume](https://twitter.com/tonijota) // Desarrollo y game design
 - [Lucía Segurajáuregui](http://luciaseguramente.com) // Modelado, Desarrollo y game design
-[Web Play a bit](htttp://playabit.net)
+- [Website Play a bit](http://playabit.net)
   
 ## Colaboradores
 - [Sofía Pros](https://sofipros.com/) // Modelado y concepto
